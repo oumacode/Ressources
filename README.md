@@ -2,6 +2,11 @@
 This page is dedicated to share some of the resources that helped me to learn
 what I learned and potential gems to learn about react and others:
 
+## Computer Science as A whole:
+[CS50 x 2024 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
+Is a good playlist to start, from the one and only Harvard university, so you
+know it good.
+
 ## Web development as a field:
 [TheOdinProject](https://www.theodinproject.com/) is a good place to start.
 the course is open source, which means that it get updated with the latest
@@ -36,10 +41,10 @@ and more)
 YouTube channel to learn more about web technologies.
 He is a great guy, and the videos are fast passed but understandable.
 
-## Computer Science as A whole:
-[CS50 x 2024 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
-Is a good playlist to start, from the one and only Harvard university, so you
-know it good.
+## React:
+[video](https://youtu.be/Rh3tobg7hEo?si=tWrJ6DGWjqWwT42m)
+[playlist](https://youtube.com/playlist?list=PLNZOdJU1xpb3nK4nR7mpZ-ihu9EBaMIc8&si=fqaFsGrJjm1ptp0t)
+the most important concepts you need in React.
 
 ## Other skills & tools:
 [typing.com](https://www.typing.com/) has some good free lessons to learn how
@@ -48,10 +53,7 @@ to type properly and use all you fingers.
 ## Introduction to Git:
 [Getting started with Git](https://youtu.be/USjZcfj8yxE?si=VXmfVEDaL_jhalHX) 
 
-## React:
-[video](https://youtu.be/Rh3tobg7hEo?si=tWrJ6DGWjqWwT42m)
-[playlist](https://youtube.com/playlist?list=PLNZOdJU1xpb3nK4nR7mpZ-ihu9EBaMIc8&si=fqaFsGrJjm1ptp0t)
-the most important concepts you need in React.
+
 
 
 
