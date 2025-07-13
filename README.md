@@ -7,6 +7,9 @@ what I learned and potential gems to learn about react and others:
 Is a good playlist to start, from the one and only Harvard university, so you
 know it good.
 
+##  Artificial intelligence : 
+[One Million Prompters course](https://dub.ai/en/omp/) This course provides a solid foundation in understanding AI, Generative AI, and Prompt Engineering
+
 ## Web development as a field:
 [TheOdinProject](https://www.theodinproject.com/) is a good place to start.
 the course is open source, which means that it get updated with the latest
@@ -41,17 +44,18 @@ and more)
 YouTube channel to learn more about web technologies.
 He is a great guy, and the videos are fast passed but understandable.
 
-## React:
+React:
 [video](https://youtu.be/Rh3tobg7hEo?si=tWrJ6DGWjqWwT42m)
 [playlist](https://youtube.com/playlist?list=PLNZOdJU1xpb3nK4nR7mpZ-ihu9EBaMIc8&si=fqaFsGrJjm1ptp0t)
 the most important concepts you need in React.
 
+## Version control 
+Introduction to Git:
+[Getting started with Git](https://youtu.be/USjZcfj8yxE?si=VXmfVEDaL_jhalHX) 
+
 ## Other skills & tools:
 [typing.com](https://www.typing.com/) has some good free lessons to learn how
 to type properly and use all you fingers.
-
-## Introduction to Git:
-[Getting started with Git](https://youtu.be/USjZcfj8yxE?si=VXmfVEDaL_jhalHX) 
 
 
 
