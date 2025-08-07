@@ -1,63 +1,50 @@
-# Resources:
-This page is dedicated to share some of the resources that helped me to learn
-what I learned and potential gems to learn about react and others:
+# 📚 Learning Resources
 
-## Computer Science as A whole:
-[CS50 x 2024 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
-Is a good playlist to start, from the one and only Harvard university, so you
-know it good.
+This page shares some of the most valuable resources that helped me learn what I know and could be great starting points for anyone exploring React, full-stack development, or computer science fundamentals.
 
-##  Artificial intelligence : 
-[One Million Prompters course](https://dub.ai/en/omp/) This course provides a solid foundation in understanding AI, Generative AI, and Prompt Engineering
+---
 
-## Web development as a field:
-[TheOdinProject](https://www.theodinproject.com/) is a good place to start.
-the course is open source, which means that it get updated with the latest
-information about the technologies regularly.
-The course goes through various topics such as: basic Git & GitHub, advanced
-HTML/CSS, JavaScript, React, Node.js and more (You can pick Ruby's path and
-learn Ruby on Rails instead of focusing on JavaScript only).
+## 🧠 Computer Science Foundations
 
-- NOTE: To navigate around the subjects go to `All Paths` -> `Explore` whatever
-Path -> `Open Course` a course you want to peek at.
+- **[CS50x 2024 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**  
+  Harvard’s renowned CS50 course offers a deep dive into computer science fundamentals. It’s beginner-friendly, intellectually stimulating, and completely free.
 
-[MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) is provides
-a structured guide to the essential skills and practices for being a
-successful front-end developer, along with recommended learning resources.
-Last updated: February 2024 which means it is new.
+---
 
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) provides some
-rich documentation about the web technologies.
+## 🌐 Web Development
 
-[MDN AI Help](https://developer.mozilla.org/en-US/plus/ai-help) A ChatGPT
-based AI Help which tries to give you an accurate answer using the official
-MDN docs as a base.
+- **[The Odin Project](https://www.theodinproject.com/)**  
+  A free, open-source curriculum that’s regularly updated. It covers:
+  - Git & GitHub
+  - HTML/CSS (basic to advanced)
+  - JavaScript
+  - React & Node.js  
+  You can also choose the Ruby on Rails path if you prefer backend development with Ruby.
 
-- NOTE: The Odin Project goes through various topics, you can directly search
-for the topics that interest you if you want to peek at it.
-(Example: [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git),
-[Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js),
-[Setting Up A React Environment](https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment)
-and more)
+- **[MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)**  
+  A structured guide from Mozilla for mastering front-end development. Last updated in February 2024, it includes essential skills and curated learning resources.
 
-[Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) Is a great
-YouTube channel to learn more about web technologies.
-He is a great guy, and the videos are fast passed but understandable.
+- **[Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)**  
+  A YouTube channel offering concise, practical tutorials on modern web development—from JavaScript tips to React best practices.
 
-React:
-[video](https://youtu.be/Rh3tobg7hEo?si=tWrJ6DGWjqWwT42m)
-[playlist](https://youtube.com/playlist?list=PLNZOdJU1xpb3nK4nR7mpZ-ihu9EBaMIc8&si=fqaFsGrJjm1ptp0t)
-the most important concepts you need in React.
+---
 
-## Version control 
-Introduction to Git:
-[Getting started with Git](https://youtu.be/USjZcfj8yxE?si=VXmfVEDaL_jhalHX) 
+## 📱 Mobile App Development
 
-## Other skills & tools:
-[typing.com](https://www.typing.com/) has some good free lessons to learn how
-to type properly and use all you fingers.
+- **[Expo Documentation](https://docs.expo.dev/get-started/introduction/)**  
+  Expo is a framework that simplifies Android and iOS app development using React Native. It offers:
+  - File-based routing
+  - Native modules
+  - Expo Application Services (EAS) for building, deploying, and updating apps  
+  Great for beginners and pros alike.
 
+---
 
+## ⌨️ Typing Practice for Developers
 
+- **[EdClub Typing Lessons](https://www.edclub.com/sportal/program-3/126.play)**  
+  Improve your typing speed and accuracy—especially useful for coding. This lesson focuses on keys like `j`, `k`, `f`, and `s` to build muscle memory.
 
+---
 
+Feel free to fork this repo and add your own favorite resources!
