@@ -1,17 +1,17 @@
-# 📚 Learning Resources
+## Learning Resources
 
 This page shares some of the most valuable resources that helped me learn what I know and could be great starting points for anyone exploring React, full-stack development, or computer science fundamentals.
 
 ---
 
-## 🧠 Computer Science Foundations
+### Computer Science Foundations
 
 - **[CS50x 2024 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**  
   Harvard’s renowned CS50 course offers a deep dive into computer science fundamentals. It’s beginner-friendly, intellectually stimulating, and completely free.
 
 ---
 
-## 🌐 Web Development
+### Web Development
 
 - **[The Odin Project](https://www.theodinproject.com/)**  
   A free, open-source curriculum that’s regularly updated. It covers:
@@ -29,7 +29,7 @@ This page shares some of the most valuable resources that helped me learn what I
 
 ---
 
-## 📱 Mobile App Development
+### Mobile App Development
 
 - **[Expo Documentation](https://docs.expo.dev/get-started/introduction/)**  
   Expo is a framework that simplifies Android and iOS app development using React Native. It offers:
@@ -40,7 +40,7 @@ This page shares some of the most valuable resources that helped me learn what I
 
 ---
 
-## ⌨️ Typing Practice for Developers
+### Typing Practice for Developers
 
 - **[EdClub Typing Lessons](https://www.edclub.com/sportal/program-3/126.play)**  
   Improve your typing speed and accuracy—especially useful for coding. This lesson focuses on keys like `j`, `k`, `f`, and `s` to build muscle memory.
